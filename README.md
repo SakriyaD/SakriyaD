@@ -13,7 +13,6 @@
 - 🌱 I’m currently in my final semester of my **BCA degree**.
 - 💼 Previously worked on projects including a **Sales UI** and a dynamic **To-do List app**.
 - 💬 Ask me about **web development, UI design, or student tech projects**.
-- 📫 How to reach me: **sakriya003@gmail.com**
 - ⚡ Fun fact: I spend 50% of my time writing code and the other 50% figuring out why it actually worked.
 
 ---
